@@ -1,0 +1,329 @@
+	* {
+	margin: 0;
+	padding: 0;
+    }
+	
+	body {
+	height: 73vh;
+	background-image: url(k2.jpg);
+	background-size: 100% 100%;
+	background-color: #00449c;
+	margin:10px 0px 10px 0px;
+    background-repeat:no-repeat;
+    background-position:center;
+	position:relative;
+	top: 0px;
+
+	}
+	
+    .resim7 {
+	background-image: url(kadıkoyhakkında.png);
+	background-repeat: no-repeat;
+	background-size: 50% 50%;
+	margin-left: 150px;
+	height: 1300px;
+	width: 1300px;
+	top: 550px;
+	position:relative;
+
+   }
+
+   .resim8 {
+	background-image:url(kadıkoyeski.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-left: 1000px;
+	height: 590px;
+	width: 600px;
+	top: -710px;
+	position:relative;
+
+   }
+
+	.resim9 {
+	background-image:url(kadıkoyhakkında2.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-left: 150px;
+	height: 700px;
+	width: 700px;
+	top: -650px;
+	position:relative;
+
+   }
+
+   .resim10 {
+	background-image:url(kadıkoyeski2.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-left: 1000px;
+	height: 510px;
+	width: 610px;
+	top: -1200px;
+	position:relative;
+
+   }
+	.resim12{
+	background-image:url(kadıkoyust.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-left: 0px;
+	height: 475px;
+	width: 1864px;
+	top: -800px;
+	position:relative;
+
+	}
+
+	.fotogaleri {
+	background-image:url(fotogaleri.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-left: 117px;
+	height: 400px;
+	width: 800px;
+	top: -1242px;
+	position:relative
+
+   } 
+
+	.fotogaleri2 {
+	background-image:url(fotogaleri2.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-left: 930px;
+	height: 400px;
+	width: 800px;
+	top: -1642px;
+	position:relative;
+		
+	}
+
+	.fotogaleritext {
+	background-image:url(fotogaleritext.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-left: 300px;
+	height: 200px;
+	width: 1300px;
+	top: -2340px;
+	position:relative;
+	
+    }
+
+    .resim6{
+	float:left;
+	background-image:url(33.gif);
+	background-size: 100% 100%;
+	margin: auto;
+	margin-top: 25px;
+	margin-left: 50px;
+	width: 1400px;
+	height:410px;
+
+	}
+
+	.resim4{
+	float:left;
+	background-image:url(beledi.jpg);
+	background-size: 100% 100%;
+	margin: auto;
+	margin-top: -410px;
+	margin-left: 1500px;
+	width: 300px;
+	height: 410px;
+
+	}
+
+    @import url('https://fonts.googleapis.com/css2? family= Lato & display=swap');
+		
+	*{
+			
+	box-sizing: border-box;
+	font-family: 'Poppins';
+
+	}
+
+    .nav2{
+	width: 100%;
+	height: 100px;
+	background-color: #9797974f;
+	line-height: 30px;
+	position:relative;
+	top: -11px;
+	z-index: -10px;
+		
+	}
+    img{
+	height: 400px;
+	width: 600px;
+	position:absolute;
+	background-repeat: no-repeat;
+	top: -140px;
+	right: 1200px;
+
+	}
+	  
+	nav{
+	width: 100%;
+	height: 80px;
+	background-color: #01346380;
+	line-height: 30px;
+	padding:30px 397px;
+	position:relative;
+	top: -11px;
+	z-index: 10;
+		
+	}
+		
+	nav ul{
+	float: center;
+	letter-spacing: 5px;
+
+	}
+
+	nav ul li{
+	display: inline-table;
+	list-style: none;
+
+	}
+
+	nav ul li a{
+	color:rgb(255, 255, 255);
+	text-decoration: none;
+	font-size: 18px;
+	text-transform: uppercase;
+	padding:7px 35px;
+
+	}
+
+	nav ul li a:hover{
+	color:#4989ff;
+
+	}
+
+	nav ul li .active{
+	color:#ffffff;
+
+	}
+		
+	.active, .menubar ul li:hover{
+	background:rgba(0, 0, 0, 0.562) 
+
+	}
+
+	.banner-area {
+	width: 100%;
+	height: 500px;
+	position: fixed;
+	top: 0px;
+		
+	-webkit-background-size: cover;
+	background-size: 200;
+	background-position: center center;
+
+	}
+    
+				
+	@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+    body{
+	line-height: 1.5;
+	font-family: 'Poppins', sans-serif;
+
+
+     }
+
+    .container{
+	max-width: 950px;
+	margin:auto;
+
+    }
+
+    .row{
+	display: flex;
+	flex-wrap:nowrap;
+
+    }
+
+    ul{
+	list-style: none;
+
+    }
+
+
+
+	.row{
+		display: flex;
+		flex-wrap: nowrap;
+    *}
+	 box-sizing: border-box;
+	 font-family:"Poppins";
+	{
+		*{
+			margin: 0px;
+		    padding: 0px;
+			box-sizing: border-box;
+		}
+	}
+    .footer{
+	background-image: url(kadıkoy.jpg) ;  
+	position:absolute;
+	width: 100%;
+	height: -80px;
+
+    }
+
+     .footer-col{
+     width: 25%;
+     padding: 0px 40px;
+   
+   }
+
+    .footer-col h4{
+	font-size: 18px;
+	padding-left: 100px;
+	color: rgb(53, 124, 255);
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 5px;
+	position: relative;
+
+   } 
+   
+    .footer-col h4::before{ 
+	content: '';
+	position: absolute;
+	right: 70px;
+	bottom: -15px;
+	background-color: rgb(72, 136, 255);
+	height: 1px;
+	box-sizing: border-box;
+	width: 50px;
+
+    }
+	
+    .footer-col ul li:not(:last-child){
+	margin-bottom: 20px;
+
+    }
+
+    .footer-col ul li a{
+	padding-left: 100px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	text-transform: capitalize;
+	color: #0077ff;
+	text-decoration: none;
+	font-weight: 150;
+	color: #ffffff;
+	display: block;
+	transition: all 0.3s ease;
+
+   }
+
+    .footer-col ul li a:hover{
+	color: #0077ff;
+	padding-left: 30px;
+
+}
